@@ -16,3 +16,23 @@
 .lowspace{
   margin-bottom: 20px;
 }
+
+.center_image {      /*Center Portfolio image*/
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+ 
+h4 {               /*Tag on image*/
+  position: relative;
+  bottom: 100px;
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 0;
+  font-weight: 300;
+  line-height: 30px;
+  color: #fff;
+  text-align: center;
+  background: pink;
+  border-bottom: 0;
+}
